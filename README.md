@@ -3,13 +3,13 @@
 
 
 
-#Overview of the statistical analysis:
+## Overview of the statistical analysis:
 
 We analyzed climate data using Python, SQLAlchemy, Pandas, and Matplotlib.
 
 
 
-#Results:
+## Results:
 
 
 June Temps
@@ -36,7 +36,7 @@ max	83.000000
 
 
 
-#Summary:
+## Summary:
 
 
 Perform the summary statistics for June and December
